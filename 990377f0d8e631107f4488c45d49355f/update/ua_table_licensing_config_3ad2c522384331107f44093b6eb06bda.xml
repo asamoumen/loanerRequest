@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-14 16:35:15</sys_created_on>
-        <sys_id>4aa2c64244f631107f44db6e95e9c05e</sys_id>
+        <sys_id>3ad2c522384331107f44093b6eb06bda</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_cdltd_loaner_req_loaner_request</sys_name>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">990377f0d8e631107f4488c45d49355f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">990377f0d8e631107f4488c45d49355f</sys_scope>
-        <sys_update_name>ua_table_licensing_config_4aa2c64244f631107f44db6e95e9c05e</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_3ad2c522384331107f44093b6eb06bda</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-11-14 16:35:15</sys_updated_on>
     </ua_table_licensing_config>
